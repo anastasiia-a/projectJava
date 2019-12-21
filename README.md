@@ -16,5 +16,5 @@ Illustrator CC.
  
 Цель игры такова: собрать 40 капель, пропустив при этом не больше 5.
 
-![Image alt](https://github.com/Anastasiya1405/projectJava/raw/master/Screenshot 2019-12-21 at 00.41.09.png)
+https://github.com/Anastasiya1405/projectJava/raw/master/2.png
 Также на главном экране имеется рекордная пометка. Наибольшая из прошлых прохождений данной игры.
