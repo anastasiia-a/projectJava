@@ -13,13 +13,13 @@ Illustrator CC.
 Задумка не обладает большим смыслом: с неба падают капли и, чтобы не затопить всё, нужно поймать их двигающимся
 ведром. Всего 5 уровней, на каждом из которых увеличивается скорость падения капель и, соответственно, сложность
 успеть переместить ведро в нужное место. 
-![](https://github.com/Anastasiya1405/projectJava/raw/master/3.png)
+![](https://github.com/anastasiia-a/projectJava/raw/master/3.png)
  
 Цель игры такова: собрать 40 капель, пропустив при этом не больше 5.
 
-![](https://github.com/Anastasiya1405/projectJava/raw/master/2.png)
+![](https://github.com/anastasiia-a/projectJava/raw/master/2.png)
 Также на главном экране имеется рекордная пометка. Наибольшая из прошлых прохождений данной игры.
 
-![](https://github.com/Anastasiya1405/projectJava/raw/master/1.png)
+![](https://github.com/anastasiia-a/projectJava/raw/master/1.png)
 
-![](https://github.com/Anastasiya1405/projectJava/raw/master/4.png)
+![](https://github.com/anastasiia-a/projectJava/raw/master/4.png)
