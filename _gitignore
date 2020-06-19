@@ -4,6 +4,11 @@
 *.war
 *.ear
 hs_err_pid*
+README.txt
+Screenshot 2019-12-21 at 00.40.42.png
+Screenshot 2019-12-21 at 00.41.09.png
+Screenshot 2019-12-21 at 00.41.28.png
+Screenshot 2019-12-21 at 00.41.44.png
 
 ## Robovm
 /ios/robovm-build/
